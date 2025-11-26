@@ -31,7 +31,7 @@ A comprehensive LinkedIn job scraping tool that extracts job postings data with 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Andrew-Girgis/linkedin-job-scraper
    cd linkedin-job-scraper
    ```
 
@@ -244,6 +244,7 @@ Adjust `llm_extract.py` settings:
 5. Open a Pull Request
 
 ## 📝 License
+have fun with it, this got me banned from linkedin on the scraper account
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
